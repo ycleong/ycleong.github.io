@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reka Daniel | Yuan Chang Leong, PhD</title>
+    <link>https://ycleong.github.io/author/reka-daniel/</link>
+      <atom:link href="https://ycleong.github.io/author/reka-daniel/index.xml" rel="self" type="application/rss+xml" />
+    <description>Reka Daniel</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 18 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ycleong.github.io/images/icon_hue305353b30b8a42d636a45e9965de74d_18867_512x512_fill_lanczos_center_2.png</url>
+      <title>Reka Daniel</title>
+      <link>https://ycleong.github.io/author/reka-daniel/</link>
+    </image>
+    
+    <item>
+      <title>Dynamic interaction between reinforcement learning and attention in multidimensional environments</title>
+      <link>https://ycleong.github.io/publication/neuron2017/</link>
+      <pubDate>Mon, 18 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://ycleong.github.io/publication/neuron2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reinforcement learning in multidimensional environments relies on attention mechanisms</title>
+      <link>https://ycleong.github.io/publication/jneuro2015/</link>
+      <pubDate>Wed, 27 May 2015 00:00:00 +0000</pubDate>
+      <guid>https://ycleong.github.io/publication/jneuro2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

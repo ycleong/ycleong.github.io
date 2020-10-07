@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Philip Johnson-Laird | Yuan Chang Leong, PhD</title>
+    <link>https://ycleong.github.io/author/philip-johnson-laird/</link>
+      <atom:link href="https://ycleong.github.io/author/philip-johnson-laird/index.xml" rel="self" type="application/rss+xml" />
+    <description>Philip Johnson-Laird</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Sep 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ycleong.github.io/images/icon_hue305353b30b8a42d636a45e9965de74d_18867_512x512_fill_lanczos_center_2.png</url>
+      <title>Philip Johnson-Laird</title>
+      <link>https://ycleong.github.io/author/philip-johnson-laird/</link>
+    </image>
+    
+    <item>
+      <title>On musical dissonance</title>
+      <link>https://ycleong.github.io/publication/music2012/</link>
+      <pubDate>Sat, 01 Sep 2012 00:00:00 +0000</pubDate>
+      <guid>https://ycleong.github.io/publication/music2012/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

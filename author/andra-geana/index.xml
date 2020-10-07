@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Andra Geana | Yuan Chang Leong, PhD</title>
+    <link>https://ycleong.github.io/author/andra-geana/</link>
+      <atom:link href="https://ycleong.github.io/author/andra-geana/index.xml" rel="self" type="application/rss+xml" />
+    <description>Andra Geana</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 May 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ycleong.github.io/images/icon_hue305353b30b8a42d636a45e9965de74d_18867_512x512_fill_lanczos_center_2.png</url>
+      <title>Andra Geana</title>
+      <link>https://ycleong.github.io/author/andra-geana/</link>
+    </image>
+    
+    <item>
+      <title>Reinforcement learning in multidimensional environments relies on attention mechanisms</title>
+      <link>https://ycleong.github.io/publication/jneuro2015/</link>
+      <pubDate>Wed, 27 May 2015 00:00:00 +0000</pubDate>
+      <guid>https://ycleong.github.io/publication/jneuro2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
