@@ -5,12 +5,20 @@
     <link>https://ycleong.github.io/author/uri-hasson/</link>
       <atom:link href="https://ycleong.github.io/author/uri-hasson/index.xml" rel="self" type="application/rss+xml" />
     <description>Uri Hasson</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 05 Oct 2017 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 31 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ycleong.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>Uri Hasson</title>
       <link>https://ycleong.github.io/author/uri-hasson/</link>
     </image>
+    
+    <item>
+      <title>Narratives: fMRI data for evaluating models of naturalistic language comprehension</title>
+      <link>https://ycleong.github.io/publication/nastase2020/</link>
+      <pubDate>Fri, 31 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://ycleong.github.io/publication/nastase2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>How we transmit memories to other brains: Constructing shared neural representations via communication</title>
